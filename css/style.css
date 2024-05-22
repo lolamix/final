@@ -15,15 +15,21 @@ h1 {
     margin-right: auto;
 }  
 
-.about{
-    margin-right: 10px;
+#about{
+
+    max-width: 90%;
+  padding-left: 100px;
 }
 
 * {
   box-sizing: border-box;
 }
 
-
+/* #abtl {
+    margin-top: 80px;
+    padding: 20px;
+    float: left;
+} */
 
 /* Center website */
 .main {
